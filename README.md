@@ -1,4 +1,5 @@
 # [Bloodhound](https://demo.themesberg.com/volt-react-dashboard) 
+[Image](https://github.com/anaszmedina/bloodhound23/assets/94870142/2260d83c-9f25-45f1-8097-635721721f58)
 
 ## Inspiration
 Managing diabetes is often cumbersome and many wearables output data across multiple devices. This is often coupled with the fact that it is quite hard to understand and find patterns in fluctuating glucose levels and other essential diabetic metrics at a simple glance. Often when diabetics meet with their doctors, these trends are identified manually across multiple data entries, days, readings, and graphs. How might we centralize the data and utilize an artificial intelligence model to predict and find trends that make pattern finding easier for doctors and patients to find the best diabetic management plan, carb to insulin ratios, and insulin rates for a routine?
