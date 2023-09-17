@@ -1,7 +1,7 @@
 {
   "name": "@themesberg/volt-react-dashboard",
-  "description": "Volt React Dashboard is a free and open source admin dashboard template powered by React.js and Bootstrap 5",
-  "author": "Themesberg",
+  "description": "Bloodhound dashboard template powered by React.js and Bootstrap 5",
+  "author": "Bloodhound",
   "keywords": [
     "bootstrap 5",
     "react",
@@ -11,7 +11,10 @@
     "react ui library",
     "react bootstrap 5",
     "bootstrap 5 dashboard",
-    "themesberg"
+    "themesberg",
+    "langchain",
+    "GPT",
+    "OPENAI"
   ],
   "license": "MIT",
   "homepage": "https://demo.themesberg.com/volt-react-dashboard",
@@ -49,7 +52,10 @@
     "react-scripts": "3.4.3",
     "react-transition-group": "^4.4.1",
     "sass": "^1.50.0",
-    "simplebar-react": "^2.3.0"
+    "simplebar-react": "^2.3.0",
+    "langchain": "latest",
+    "nvm": "^0.0.4",
+    "terra-api": "latest"
   },
   "scripts": {
     "start": "react-scripts start",

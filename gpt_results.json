@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2023-07-01",
+    "trends": {
+      "average_glucose": 169.39,
+      "maximum_glucose": 246.27,
+      "minimum_glucose": 87,
+      "summary": "The blood glucose levels varied throughout the day, with a maximum of 246.27 mg/dL and a minimum of 87 mg/dL. The average glucose level for the day was 169.39 mg/dL. Overall, the day showed a fluctuation in glucose levels but remained within a normal range."
+    }
+  },
+  {
+    "date": "2023-07-02",
+    "trends": {
+      "average_glucose": 157.48,
+      "maximum_glucose": 273,
+      "minimum_glucose": 108,
+      "summary": "The blood glucose levels ranged from 108 mg/dL to 273 mg/dL throughout the day. The average glucose level was 157.48 mg/dL. Overall, the day had fluctuating glucose levels but remained within a manageable range."
+    }
+  },
+  {
+    "date": "2023-07-03",
+    "trends": {
+      "average_glucose": 170.17666666666665,
+      "maximum_glucose": 256,
+      "minimum_glucose": 138,
+      "summary": "The day started with a blood glucose level of 150.68 mg/dL and fluctuated throughout the day, reaching a maximum of 256 mg/dL and a minimum of 138 mg/dL. Overall, the day showed a higher than average glucose level with a peak towards the end."
+    }
+  },
+  {
+    "date": "2023-07-04",
+    "trends": {
+      "average_glucose": 160.03703703703704,
+      "maximum_glucose": 219,
+      "minimum_glucose": 101,
+      "summary": "The blood glucose levels fluctuated throughout the day, with a maximum reading of 219 mg/dL and a minimum reading of 101 mg/dL. The average blood glucose level for the day was 160.04 mg/dL, indicating overall moderate glucose control."
+    }
+  },
+  {
+    "date": "2023-07-05",
+    "trends": {
+      "average_glucose": 161.96666666666667,
+      "maximum_glucose": 285,
+      "minimum_glucose": 81,
+      "summary": "The blood glucose levels fluctuated throughout the day, ranging from a minimum of 81 mg/dL to a maximum of 285 mg/dL. The average glucose level for the day was 161.97 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-06",
+    "trends": {
+      "average_glucose": 158.358,
+      "maximum_glucose": 244,
+      "minimum_glucose": 113,
+      "summary": "The blood glucose levels fluctuated throughout the day, with a maximum value of 244 mg/dL and a minimum value of 113 mg/dL. On average, the blood glucose levels were around 158 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-07",
+    "trends": {
+      "average_glucose": 163.52608695652174,
+      "maximum_glucose": 300,
+      "minimum_glucose": 80,
+      "summary": "The blood glucose levels varied throughout the day, ranging from a minimum of 80 mg/dL to a maximum of 300 mg/dL. The average glucose level was 163.53 mg/dL. Overall, the day showed fluctuating blood glucose levels, with a high level in the morning and a low level in the afternoon."
+    }
+  },
+  {
+    "date": "2023-07-08",
+    "trends": {
+      "average_glucose": 153.875,
+      "maximum_glucose": 249.3997682502897,
+      "minimum_glucose": 68,
+      "summary": "The blood glucose levels ranged from a minimum of 68 mg/dL to a maximum of 249.4 mg/dL, with an average glucose level of 153.9 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-09",
+    "trends": {
+      "average_glucose": 137.86,
+      "maximum_glucose": 267,
+      "minimum_glucose": 65,
+      "summary": "The blood glucose levels varied throughout the day, with a maximum of 267 mg/dL and a minimum of 65 mg/dL. Overall, the day's average glucose level was 137.86 mg/dL, indicating a relatively stable blood glucose range."
+    }
+  },
+  {
+    "date": "2023-07-10",
+    "trends": {
+      "average_glucose": 148.42,
+      "maximum_glucose": 232,
+      "minimum_glucose": 81,
+      "summary": "The blood glucose levels ranged from a minimum of 81 mg/dL to a maximum of 232 mg/dL with an average of 148.42 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-11",
+    "trends": {
+      "average_glucose": 148.05733333333333,
+      "maximum_glucose": 235,
+      "minimum_glucose": 93,
+      "summary": "The blood glucose levels ranged from a minimum of 93 mg/dL to a maximum of 235 mg/dL throughout the day. The average glucose level was 148.06 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-12",
+    "trends": {
+      "average_glucose": 138.5,
+      "maximum_glucose": 212,
+      "minimum_glucose": 93,
+      "summary": "The blood glucose levels varied throughout the day, ranging from a minimum of 93 mg/dL to a maximum of 212 mg/dL. The average glucose level was 138.5 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-13",
+    "trends": {
+      "average_glucose": 154.22222222222223,
+      "maximum_glucose": 302,
+      "minimum_glucose": 94,
+      "summary": "The blood glucose levels for the day ranged from a minimum of 94 mg/dL to a maximum of 302 mg/dL, with an average of 154.22 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-14",
+    "trends": {
+      "average_glucose": 155.91304347826087,
+      "maximum_glucose": 244,
+      "minimum_glucose": 91,
+      "summary": "The blood glucose levels fluctuated throughout the day, with a range from 91 mg/dL to 244 mg/dL. The average glucose level was 155.91 mg/dL."
+    }
+  },
+  {
+    "date": "2023-07-15",
+    "trends": {
+      "average_glucose": 173.6,
+      "highest_glucose": 212,
+      "lowest_glucose": 150,
+      "summary": "The day started with a glucose level of 156 mg/dL, which remained relatively stable throughout the day with a peak of 212 mg/dL."
+    }
+  }
+]
