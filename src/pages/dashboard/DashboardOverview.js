@@ -58,8 +58,8 @@ export default () => {
         </Col>
         <Col xs={12} sm={6} xl={4} className="mb-4">
           <CounterWidget
-            category="Customers"
-            title="345k"
+            category="Average"
+            title="167ml"
             period="Feb 1 - Apr 1"
             percentage={18.2}
             icon={faChartLine}
@@ -69,8 +69,8 @@ export default () => {
 
         <Col xs={12} sm={6} xl={4} className="mb-4">
           <CounterWidget
-            category="Revenue"
-            title="$43,594"
+            category="Highest When..."
+            title="Post-lunch"
             period="Feb 1 - Apr 1"
             percentage={28.4}
             icon={faCashRegister}
@@ -79,9 +79,6 @@ export default () => {
         </Col>
 
         <Col xs={12} sm={6} xl={4} className="mb-4">
-          <CircleChartWidget
-            title="Traffic Share"
-            data={trafficShares} />
         </Col>
       </Row>
 
@@ -91,7 +88,6 @@ export default () => {
             <Col xs={12} xl={8} className="mb-4">
               <Row>
                 <Col xs={12} className="mb-4">
-                  <PageVisitsTable />
                 </Col>
 
                 <Col xs={12} lg={6} className="mb-4">
@@ -99,7 +95,6 @@ export default () => {
                 </Col>
 
                 <Col xs={12} lg={6} className="mb-4">
-                  <ProgressTrackWidget />
                 </Col>
               </Row>
             </Col>
@@ -107,11 +102,6 @@ export default () => {
             <Col xs={12} xl={4}>
               <Row>
                 <Col xs={12} className="mb-4">
-                  <BarChartWidget
-                    title="Total orders"
-                    value={452}
-                    percentage={18.2}
-                    data={totalOrders} />
                 </Col>
 
                 <Col xs={12} className="px-0 mb-4">
@@ -119,7 +109,6 @@ export default () => {
                 </Col>
 
                 <Col xs={12} className="px-0">
-                  <AcquisitionWidget />
                 </Col>
               </Row>
             </Col>
