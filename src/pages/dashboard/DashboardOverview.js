@@ -40,19 +40,18 @@ export default () => {
           <Button variant="outline-primary" size="sm">Export</Button>
         </ButtonGroup>
       </div>
-
       <Row className="justify-content-md-center">
         <Col xs={12} className="mb-4 d-none d-sm-block">
           <SalesValueWidget
-            title="Sales Value"
-            value="10,567"
+            title="Glucose Level"
+            value="167mg/ml"
             percentage={10.57}
           />
         </Col>
         <Col xs={12} className="mb-4 d-sm-none">
           <SalesValueWidgetPhone
-            title="Sales Value"
-            value="10,567"
+            title="Glucose Level"
+            value="167mg/ml"
             percentage={10.57}
           />
         </Col>
@@ -81,6 +80,21 @@ export default () => {
         <Col xs={12} sm={6} xl={4} className="mb-4">
         </Col>
       </Row>
+      
+      <Row className="justify-content-md-center">
+        <Col xs={12} xl={4} className="mb-4">
+          <CounterWidget
+            category="Average"
+            title="167ml"
+            period="Feb 1 - Apr 1"
+            percentage={18.2}
+            icon={faChartLine}
+            iconColor="shape-secondary"
+          />
+        </Col>
+        <Col xs={12} sm={6} xl={4} className="mb-4">
+        </Col>
+      </Row>
 
       <Row>
         <Col xs={12} xl={12} className="mb-4">
@@ -95,7 +109,16 @@ export default () => {
                 </Col>
 
                 <Col xs={12} lg={6} className="mb-4">
+                <CounterWidget
+                  category="Highest When..."
+                  title="Post-lunch"
+                  period="Feb 1 - Apr 1"
+                  percentage={28.4}
+                  icon={faCashRegister}
+                  iconColor="shape-tertiary"
+                  />
                 </Col>
+
               </Row>
             </Col>
 
@@ -105,9 +128,8 @@ export default () => {
                 </Col>
 
                 <Col xs={12} className="px-0 mb-4">
-                  <RankingWidget />
                 </Col>
-
+                
                 <Col xs={12} className="px-0">
                 </Col>
               </Row>
